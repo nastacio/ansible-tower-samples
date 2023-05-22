@@ -1,0 +1,13 @@
+#
+# Copyright 2020- IBM Inc. All rights reserved
+#
+#
+---
+collections:
+  - name: community.okd
+    version: 2.1.0
+  - name: kubernetes.core
+    versio: 2.3.2
+  - name: community.general
+  - name: community.kubernetes
+    version: 2.0.1
